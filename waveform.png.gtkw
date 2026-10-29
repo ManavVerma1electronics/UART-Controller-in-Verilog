@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Oct 29 20:49:57 2026
+[*]
+[dumpfile] "C:\Users\manav\OneDrive\Desktop\UART-Controller-in-Verilog\uart.vcd"
+[dumpfile_mtime] "Thu Oct 29 20:46:22 2026"
+[dumpfile_size] 81042
+[savefile] "C:\Users\manav\OneDrive\Desktop\UART-Controller-in-Verilog\waveform.png.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-21.349056 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_uart.
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+tb_uart.serial
+@22
+tb_uart.tx_data[7:0]
+tb_uart.rx_data[7:0]
+tb_uart.rx_data[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
